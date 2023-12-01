@@ -21,7 +21,7 @@ public class Main {
         try {
 			latch.await();
 		} catch (InterruptedException e) {
-			// Print message
+			// Print messagef
 			e.printStackTrace();
 		}
 
